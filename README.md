@@ -2,6 +2,8 @@
 
 Backend do projeto
 
-ASP.NET 6 Core
-Entity Framework
-SQL Server
+- API
+- CRUD
+- ASP.NET 6 Core
+- Entity Framework
+- SQL Server
